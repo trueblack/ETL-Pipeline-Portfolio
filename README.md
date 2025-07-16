@@ -1,4 +1,4 @@
-# ETL-Pipeline-Portfolio
+# ETL-Pipeline-Portfolio (Work In Progress)
 # Airflow Docker Environment for SQL Practice
 
 A containerized Apache Airflow environment with PostgreSQL database for practicing SQL queries, data pipeline development, and workflow orchestration.
